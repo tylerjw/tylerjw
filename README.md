@@ -43,4 +43,5 @@ Here are some helpful links if you'd like to learn more:
 
 ## Contact Me
 
-- :email: <squirrel428@splintermail.com>
+- :email: <squirrel428@protonmail.com>
+- :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
