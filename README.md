@@ -1,13 +1,13 @@
 ### Hi there, I'm Tyler
 - :office: I work at [PickNik Robotics](https://picknik.ai)
-- :rocket: My current fun project is a ros2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
+- :rocket: My fun project is a ros2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
 - :crab: I'm reading [The Rust Programming Language](https://doc.rust-lang.org/book/) and [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
 - :checkered_flag: I race karts in the Colorado Karting Tour.  [YouTube Video](https://www.youtube.com/watch?v=0pKhu1n1q6c)
 
 ---
 
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerjw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylerjw&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylerjw)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :orange_book: Recent Blog Posts
 
@@ -22,7 +22,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ros-planning&repo=moveit2)](https://github.com/anuraghazra/github-readme-stats)
 
 MoveIt 2 is the OSS library for robot arm manipulation on [ROS 2](https://docs.ros.org/).
-As a contributor and maintainer and of MoveIt I am always looking for ways it can be improved.
 Here are some helpful links if you'd like to learn more:
 
 - [Website](https://moveit.ros.org/)
@@ -45,4 +44,3 @@ Here are some helpful links if you'd like to learn more:
 ## Contact Me
 
 - :email: <squirrel428@splintermail.com>
-
