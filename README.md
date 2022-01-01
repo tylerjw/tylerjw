@@ -5,7 +5,9 @@
 - :checkered_flag: I race karts in the Colorado Karting Tour.  [YouTube Video](https://www.youtube.com/watch?v=0pKhu1n1q6c)
 
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerjw&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tylerjw)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## :orange_book: Recent Blog Posts
 
