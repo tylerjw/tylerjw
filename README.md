@@ -12,7 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 26 December, 2021 - 01 January, 2022
+
+C++        3 hrs 47 mins   ██████████████████░░░░░░░   71.76 % 
+Markdown   59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 % 
+CMake      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+YAML       9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 <!--END_SECTION:waka-->
 
