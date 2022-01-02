@@ -1,4 +1,5 @@
-### Hi there, I'm Tyler Weaver
+![Hi](https://github.com/tylerjw/tylerjw/blob/main/header.png?raw=true)
+
 - :office: I work at [PickNik Robotics](https://picknik.ai)
 - :rocket: My fun project is a ROS 2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
 - :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/) and [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
