@@ -8,7 +8,7 @@
 
 ### :chart_with_upwards_trend: GitHub and Waka Stats
 
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerjw&show_icons=true)](#)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerjw&show_icons=true&count_private=true&include_all_commits=true)](#)
 
 <!--START_SECTION:waka-->
 ```text
