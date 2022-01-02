@@ -23,7 +23,7 @@ No Activity tracked this Week
 - [Should I use ROS 2 Rolling for my project?](http://picknik.ai/ros/ros2/releases/moveit/2021/08/18/rolling-ridley.html)
 - [Cloud Repo Hosting and Continuous Integration](http://picknik.ai/ros2/moveit2/devops/2021/02/18/DevOps-for-ROS-part1.html)
 
-## :robot: MoveIt 2 : OSS library for robot arm manipulation on [ROS 2](https://docs.ros.org/)
+## :robot: MoveIt 2 : C++ Library for Robot Arm Manipulation
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ros-planning&repo=moveit2)](https://github.com/anuraghazra/github-readme-stats)
 
