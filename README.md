@@ -1,4 +1,4 @@
-![Hi](https://github.com/tylerjw/tylerjw/blob/main/header.png?raw=true)
+[![Hi, I'm Tyler Weaver](https://github.com/tylerjw/tylerjw/blob/main/header.png?raw=true)](#)
 
 - :office: I work at [PickNik Robotics](https://picknik.ai)
 - :rocket: My fun project is a ROS 2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
