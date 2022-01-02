@@ -26,7 +26,7 @@ No Activity tracked this Week
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ros-planning&repo=moveit2)](https://github.com/anuraghazra/github-readme-stats)
 
 - :bookmark: [Website](https://moveit.ros.org/)
-- :memo: [MoveIt 2 Tutorials](https://moveit.picknik.ai/foxy/index.html)
+- :memo: [Tutorials](https://moveit.picknik.ai/foxy/index.html)
 - :speech_balloon: [Discord](https://discord.gg/RrySut8)
 
 ## :tv: MoveIt 2 YouTube Videos
