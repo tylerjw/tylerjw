@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 December, 2021 - 01 January, 2022
+Week: 27 December, 2021 - 02 January, 2022
 
 C++        3 hrs 47 mins   ██████████████████░░░░░░░   71.76 % 
 Markdown   59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.66 % 
