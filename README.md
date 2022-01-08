@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 December, 2021 - 06 January, 2022
+Week: 01 January, 2022 - 07 January, 2022
 
-C++                9 hrs 49 mins   █████████▓░░░░░░░░░░░░░░░   38.09 % 
-Markdown           6 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.80 % 
-reStructuredText   3 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-YAML               2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Bash               1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+C++                10 hrs 20 mins  █████████▒░░░░░░░░░░░░░░░   37.60 % 
+Markdown           6 hrs 23 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.26 % 
+reStructuredText   4 hrs 56 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.98 % 
+YAML               2 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Bash               1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
 
