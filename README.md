@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 January, 2022 - 11 January, 2022
+Week: 06 January, 2022 - 12 January, 2022
 
-reStructuredText   5 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   32.76 % 
-Markdown           3 hrs 59 mins   ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-YAML               1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other              1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
-Bash               1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+reStructuredText   5 hrs 19 mins   ████████▒░░░░░░░░░░░░░░░░   33.09 % 
+Markdown           3 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.77 % 
+YAML               1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Other              1 hr 11 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Bash               1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 <!--END_SECTION:waka-->
 
