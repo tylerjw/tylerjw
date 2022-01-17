@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2022 - 15 January, 2022
+Week: 10 January, 2022 - 16 January, 2022
 
 reStructuredText   4 hrs 51 mins   ███████▓░░░░░░░░░░░░░░░░░   30.48 % 
 Markdown           3 hrs 37 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.81 % 
