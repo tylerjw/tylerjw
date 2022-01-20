@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 January, 2022 - 18 January, 2022
+Week: 13 January, 2022 - 19 January, 2022
 
-Markdown           6 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   36.60 % 
-reStructuredText   5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.22 % 
-C++                3 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Python             58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-CMake              31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Markdown           5 hrs 29 mins   ███████▒░░░░░░░░░░░░░░░░░   28.68 % 
+reStructuredText   5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.79 % 
+C++                3 hrs 45 mins   █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Python             1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Arduino            1 hr 4 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 ```
 <!--END_SECTION:waka-->
 
