@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2022 - 24 January, 2022
+Week: 19 January, 2022 - 25 January, 2022
 
 Markdown           7 hrs 30 mins   ███████████▒░░░░░░░░░░░░░   45.60 % 
 C++                3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.32 % 
