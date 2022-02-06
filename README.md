@@ -12,7 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 29 January, 2022 - 04 February, 2022
+Week: 30 January, 2022 - 05 February, 2022
 
 C++        14 hrs 9 mins   ███████████████▓░░░░░░░░░   63.07 % 
 YAML       2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 % 
