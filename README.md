@@ -12,13 +12,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 February, 2022 - 08 February, 2022
+Week: 03 February, 2022 - 09 February, 2022
 
-C++        12 hrs 44 mins  ██████████████░░░░░░░░░░░   55.54 % 
-YAML       3 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Markdown   3 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-CMake      2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-Other      52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Markdown   8 hrs 36 mins   ██████████▒░░░░░░░░░░░░░░   41.40 % 
+C++        3 hrs 46 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.16 % 
+YAML       2 hrs 56 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+CMake      1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Other      1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 ```
 <!--END_SECTION:waka-->
 
