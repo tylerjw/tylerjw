@@ -12,7 +12,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2022 - 14 February, 2022
+Week: 09 February, 2022 - 15 February, 2022
+
+Total: 31 hrs 47 mins
 
 C++        18 hrs 19 mins  █████████████▒░░░░░░░░░░░   53.28 % 
 Markdown   4 hrs 14 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
