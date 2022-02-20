@@ -37,7 +37,7 @@ CMake    1 hr 16 mins    █░░░░░░░░░░░░░░░░░�
 
 ### :books: Recent Books I've Read
 
-- [Grokking Symplicity](https://www.manning.com/books/grokking-simplicity)
+- [Grokking Symplicity](https://www.manning.com/books/grokking-simplicity) - Taming complex software with functional thinking
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
 
 ### :technologist: Contact Me
