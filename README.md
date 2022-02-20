@@ -3,7 +3,7 @@
 - :office: I work at [PickNik Robotics](https://picknik.ai)
 - :robot: I am a contributor and maintainer of [MoveIt 2](https://moveit.picknik.ai/foxy/index.html)
 - :rocket: My fun project is a ROS 2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
-- :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/) and [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
+- :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - :checkered_flag: I race karts in the Colorado Karting Tour.  [YouTube Video](https://www.youtube.com/watch?v=0pKhu1n1q6c)
 
 ### :chart_with_upwards_trend: GitHub and Waka Stats
@@ -34,6 +34,11 @@ CMake    1 hr 16 mins    █░░░░░░░░░░░░░░░░░�
 
 - [Getting started with MoveIt 2 on Foxy](https://www.youtube.com/watch?v=k85fH0snRm8)
 - [Quickstart in Rviz](https://www.youtube.com/watch?v=kOGFvq9IriI)
+
+### :books: Recent Books I've Read
+
+- [Grokking Symplicity](https://www.manning.com/books/grokking-simplicity)
+- [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
 
 ### :technologist: Contact Me
 
