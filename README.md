@@ -11,15 +11,18 @@
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerjw&show_icons=true&count_private=true&include_all_commits=true)](#)
 
 <!--START_SECTION:waka-->
-```text
-From: 15 February, 2022 - To: 22 February, 2022
 
-C++        11 hrs 23 mins  ██████████████████████▒░░   89.73 % 
-Markdown   23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-CMake      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Other      16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
-YAML       12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+```text
+From: 21 February 2022 - To: 28 February 2022
+
+C++        7 hrs 36 mins   ███████████████▒░░░░░░░░░   61.68 %
+Rust       3 hrs 32 mins   ███████░░░░░░░░░░░░░░░░░░   28.66 %
+Markdown   55 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 %
+YAML       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+CMake      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
+
 <!--END_SECTION:waka-->
 
 ### :orange_book: Recent Blog Posts
