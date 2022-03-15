@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
 C++        8 hrs 8 mins    ████████████████░░░░░░░░░   63.59 %
 Docker     4 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   31.58 %
