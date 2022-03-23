@@ -13,11 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 March 2022 - To: 21 March 2022
+From: 15 March 2022 - To: 22 March 2022
 
-C++        11 hrs 56 mins  ████████████████████████░   95.39 %
-Markdown   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-Other      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+C++        15 hrs 40 mins  ███████████████████████░░   91.52 %
+Other      24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
