@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 March 2022 - To: 29 March 2022
+From: 23 March 2022 - To: 30 March 2022
 
-Python   7 hrs 9 mins    ██████████████▓░░░░░░░░░░   58.60 %
-C++      3 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-YAML     36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Other    34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Python   3 hrs 39 mins   █████████░░░░░░░░░░░░░░░░   36.16 %
+C++      3 hrs 27 mins   ████████▓░░░░░░░░░░░░░░░░   34.08 %
+Other    2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.64 %
 ```
 
 <!--END_SECTION:waka-->
