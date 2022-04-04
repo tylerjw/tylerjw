@@ -6,10 +6,6 @@
 - :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - :checkered_flag: I race karts in the Colorado Karting Tour.  [YouTube Video](https://www.youtube.com/watch?v=0pKhu1n1q6c)
 
-### :chart_with_upwards_trend: GitHub and Waka Stats
-
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylerjw&show_icons=true&count_private=true&include_all_commits=true)](#)
-
 <!--START_SECTION:waka-->
 
 ```text
