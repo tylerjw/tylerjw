@@ -9,9 +9,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2022 - To: 04 April 2022
+From: 29 March 2022 - To: 05 April 2022
 
-Other      3 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.34 %
+C++        3 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.21 %
+Other      2 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.46 %
 ```
 
 <!--END_SECTION:waka-->
