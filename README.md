@@ -31,6 +31,8 @@ Other              37 mins         █░░░░░░░░░░░░░░
 
 ### :tv: MoveIt 2 YouTube Videos
 
+- [Never use print statements again for debugging](https://www.youtube.com/watch?v=-Ab47MMmjcM)
+- [Implementing the ADSP Family Fued problem using algorithms](https://www.youtube.com/watch?v=je9QQz7vr3s)
 - [Getting started with MoveIt 2 on Foxy](https://www.youtube.com/watch?v=k85fH0snRm8)
 - [Quickstart in Rviz](https://www.youtube.com/watch?v=kOGFvq9IriI)
 
