@@ -4,7 +4,7 @@
 - :robot: I am a contributor and maintainer of [MoveIt 2](https://moveit.picknik.ai/foxy/index.html)
 - :rocket: My fun project is a ROS 2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
 - :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/)
-- :checkered_flag: I race karts in the Colorado Karting Tour.  [YouTube Video](https://www.youtube.com/watch?v=0pKhu1n1q6c)
+- :checkered_flag: I race karts in the Colorado Karting Tour.  [Video of Kart Crashes](https://www.youtube.com/watch?v=cfdHdgqLnpM)
 
 <!--START_SECTION:waka-->
 
