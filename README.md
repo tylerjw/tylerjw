@@ -29,7 +29,7 @@ Other              37 mins         █░░░░░░░░░░░░░░
 - [Should I use ROS 2 Rolling for my project?](http://picknik.ai/ros/ros2/releases/moveit/2021/08/18/rolling-ridley.html)
 - [Cloud Repo Hosting and Continuous Integration](http://picknik.ai/ros2/moveit2/devops/2021/02/18/DevOps-for-ROS-part1.html)
 
-### :tv: MoveIt 2 YouTube Videos
+### :tv: YouTube Videos
 
 - [Never use print statements again for debugging](https://www.youtube.com/watch?v=-Ab47MMmjcM)
 - [Implementing the ADSP Family Fued problem using algorithms](https://www.youtube.com/watch?v=je9QQz7vr3s)
