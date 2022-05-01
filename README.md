@@ -40,6 +40,7 @@ Other              37 mins         █░░░░░░░░░░░░░░
 
 - [Grokking Symplicity](https://www.manning.com/books/grokking-simplicity) - Taming complex software with functional thinking
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
+- [C++ Best Practices](https://leanpub.com/cppbestpractices)
 
 ### :technologist: Contact Me
 
