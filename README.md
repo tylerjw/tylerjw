@@ -9,11 +9,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 April 2022 - To: 03 May 2022
+From: 27 April 2022 - To: 04 May 2022
 
-C++                12 hrs 37 mins  ████████████████▓░░░░░░░░   66.37 %
-Markdown           1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other              1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+C++                12 hrs 24 mins  ████████████████░░░░░░░░░   63.71 %
+YAML               1 hr 24 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other              1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 ```
 
 <!--END_SECTION:waka-->
