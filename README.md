@@ -43,6 +43,6 @@ Other      49 mins         ▓░░░░░░░░░░░░░░░░�
 
 ### :technologist: Contact Me
 
-- :email: <squirrel428@protonmail.com>
+- :email: <monad@tylerjw.dev>
 - :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
 - :speech_balloon: [Discord](https://discord.gg/RrySut8)
