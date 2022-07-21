@@ -6,16 +6,6 @@
 - :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - :checkered_flag: I race karts in the Colorado Karting Tour.  [Video of Kart Crashes](https://www.youtube.com/watch?v=cfdHdgqLnpM)
 
-<!--START_SECTION:waka-->
-
-```text
-From: 12 July 2022 - To: 19 July 2022
-
-Other         1 hr 54 mins    █████████████░░░░░░░░░░░░   51.83 %
-```
-
-<!--END_SECTION:waka-->
-
 ### :orange_book: Recent Blog Posts
 
 - [MoveIt Sprint Report: Nov 26 - Dec 16](https://moveit.ros.org/moveit/ros/2021/12/17/sprint-report-3.html)
