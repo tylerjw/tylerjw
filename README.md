@@ -2,7 +2,7 @@
 
 - :office: I work at [PickNik Robotics](https://picknik.ai)
 - :robot: I am a contributor and maintainer of [MoveIt 2](https://moveit.picknik.ai/foxy/index.html)
-- :rocket: My fun project is a ROS 2 port of [bio_ik](https://github.com/tylerjw/bio_ik)
+- :rocket: My current project is making [ROS 2 Parameters Declarative](https://github.com/PickNikRobotics/generate_parameter_library)
 - :crab: I'm currently reading [The Rust Programming Language](https://doc.rust-lang.org/book/)
 - :checkered_flag: I race karts in the Colorado Karting Tour.  [Video of Kart Crashes](https://www.youtube.com/watch?v=cfdHdgqLnpM)
 
