@@ -29,6 +29,6 @@
 
 ### :technologist: Contact Me
 
-- :email: <monad@tylerjw.dev>
+- :email: <maybe@tylerjw.dev>
 - :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
 - :speech_balloon: [Discord](https://discord.gg/RrySut8)
