@@ -25,7 +25,7 @@
 
 - [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
-- [Grokking Symplicity](https://www.manning.com/books/grokking-simplicity) - Taming complex software with functional thinking
+- [Grokking Symplicity](https://www.manning.com/books/grokking-simplicity)
 - [Functional Programming in C++](https://www.manning.com/books/functional-programming-in-c-plus-plus)
 - [C++ Best Practices](https://leanpub.com/cppbestpractices)
 
