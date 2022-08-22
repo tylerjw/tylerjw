@@ -21,7 +21,7 @@
 - [Getting started with MoveIt 2 on Foxy](https://www.youtube.com/watch?v=k85fH0snRm8)
 - [Quickstart in Rviz](https://www.youtube.com/watch?v=kOGFvq9IriI)
 
-### :books: Books
+### :books: Recommended Books
 
 - [Command-Line Rust](https://www.oreilly.com/library/view/command-line-rust/9781098109424/)
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
