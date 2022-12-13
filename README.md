@@ -35,3 +35,5 @@
 - :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
 - :speech_balloon: [Discord](https://discord.gg/RrySut8)
 - :page_with_curl: [Resume](https://github.com/tylerjw/cv/blob/build/cv.pdf)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tylerjw)](https://github.com/ryo-ma/github-profile-trophy)
