@@ -1,8 +1,8 @@
 [![Hi, I'm Tyler Weaver](https://github.com/tylerjw/tylerjw/blob/main/header.png?raw=true)](#)
 
 ### 🦀 Rust
-- 📎 clippy: (Suggest using Path for comparing extensions)[https://github.com/rust-lang/rust-clippy/pull/10107]
-- 📎 clippy: (Document lint configuration values in Clippy's book)[https://github.com/rust-lang/rust-clippy/pull/10199]
+- 📎 clippy: [Suggest using Path for comparing extensions](https://github.com/rust-lang/rust-clippy/pull/10107)
+- 📎 clippy: [Document lint configuration values in Clippy's book](https://github.com/rust-lang/rust-clippy/pull/10199)
 
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
