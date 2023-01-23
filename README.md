@@ -10,7 +10,7 @@
   - Author of [Tutorials for new users](https://moveit.picknik.ai/humble/doc/tutorials/your_first_project/your_first_project.html)
   - Driving [Discussion about API Design](https://github.com/ros-planning/moveit2/discussions/1517)
   - Rewrite of [Optimization based Inverse Kinematics library](https://github.com/picknikrobotics/pick_ik)
-  - [Author and Maintainer Infrastructure](http://picknik.ai/ros/moveit/devops/2021/12/14/DevOps-for-ROS-Projects-Part-2.html)
+  - Migrated Infrastructure to [GitHub Actions](http://picknik.ai/ros/moveit/devops/2021/12/14/DevOps-for-ROS-Projects-Part-2.html)
 - 🧰 Tooling Libraries for ROS
   - [Declarative Parameters](https://github.com/PickNikRobotics/generate_parameter_library)
   - [ROS Support Library (ala GSL for ROS)](https://github.com/PickNikRobotics/RSL)
