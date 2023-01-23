@@ -1,4 +1,5 @@
-[![Hi, I'm Tyler Weaver](https://github.com/tylerjw/tylerjw/blob/main/header.png?raw=true)](#)
+# Hi 👋, I'm Tyler Weaver 
+See what I've been up to recently.
 
 ### 🦀 Rust
 - 📎 clippy: [Suggest using Path for comparing extensions](https://github.com/rust-lang/rust-clippy/pull/10107)
