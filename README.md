@@ -1,5 +1,5 @@
-# Hi 👋, I'm Tyler Weaver 
-See what I've been up to recently.
+## Hi 👋, I'm Tyler Weaver (he/him)
+Here is some of my best open-source work.
 
 ### 🦀 Rust
 - 📎 clippy: [Suggest using Path for comparing extensions](https://github.com/rust-lang/rust-clippy/pull/10107)
