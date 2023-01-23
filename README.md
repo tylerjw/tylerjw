@@ -19,5 +19,4 @@
 
 - :email: <maybe@tylerjw.dev>
 - :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
-- :speech_balloon: [Discord](https://discord.gg/RrySut8)
 - :page_with_curl: [Resume](https://github.com/tylerjw/cv/blob/build/cv.pdf)
