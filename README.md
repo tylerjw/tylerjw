@@ -1,5 +1,11 @@
 ## Hi 👋, I'm Tyler Weaver (he/him)
-Here is some of my best open-source work.
+Building robust software with others is my jam.
+Professionally I work in open-source robotics, and before that, I wrote signal processing code.
+In 1999 I started programming with the book "C in 21 Days".
+Having written C++ for as long as I can remember, I've fallen in love with the Rust programming language.
+I am currently contributing to [Clippy](https://doc.rust-lang.org/clippy/), the Rust linter.
+My motivation is to develop muscle memory in Rust and to make friends in the Rust community.
+Below are links to my PRs for Clippy and my robotics work for [PickNik Robotics](https://picknik.ai/).
 
 ### 🦀 Rust
 - 📎 clippy: [Suggest using Path for comparing extensions](https://github.com/rust-lang/rust-clippy/pull/10107)
@@ -17,6 +23,7 @@ Here is some of my best open-source work.
   - [ROS Support Library (ala GSL for ROS)](https://github.com/PickNikRobotics/RSL)
 
 ### :technologist: Contact Me
+I am looking for mentoring for giving talks at programming language meetups and conferences.
 
 - :email: <maybe@tylerjw.dev>
 - :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
