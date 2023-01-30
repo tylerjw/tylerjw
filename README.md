@@ -8,8 +8,11 @@ My motivation is to develop muscle memory in Rust and to make friends in the Rus
 Below are links to my PRs for Clippy and my robotics work for [PickNik Robotics](https://picknik.ai/).
 
 ### 🦀 Rust
-- 📎 clippy: [Suggest using Path for comparing extensions](https://github.com/rust-lang/rust-clippy/pull/10107)
+- 📎 clippy: [`needless_lifetimes`: macro test](https://github.com/rust-lang/rust-clippy/pull/10257)
+- 📎 clippy: [`needless_range_loop`: improve documentation](https://github.com/rust-lang/rust-clippy/pull/10254)
+- 📎 clippy: [`wildcard_enum_match_arm`: take the enum origin into account](https://github.com/rust-lang/rust-clippy/pull/10250)
 - 📎 clippy: [Document lint configuration values in Clippy's book](https://github.com/rust-lang/rust-clippy/pull/10199)
+- 📎 clippy: [`case_sensitive_file_extension_comparisons`: Suggest using Path](https://github.com/rust-lang/rust-clippy/pull/10107)
 
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
