@@ -8,7 +8,7 @@ My motivation is to develop muscle memory in Rust and to make friends in the Rus
 Below are links to my PRs for Clippy and my robotics work for [PickNik Robotics](https://picknik.ai/).
 
 ### 🦀 Rust
-- 📦 crate: [conan-export-recipes](https://crates.io/crates/conan-export-recipes)
+- 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
 - 📎 clippy: [`needless_lifetimes`: lint local macros](https://github.com/rust-lang/rust-clippy/pull/10257)
 - 📎 clippy: [`needless_range_loop`: improve documentation](https://github.com/rust-lang/rust-clippy/pull/10254)
 - 📎 clippy: [`wildcard_enum_match_arm`: take the enum origin into account](https://github.com/rust-lang/rust-clippy/pull/10250)
