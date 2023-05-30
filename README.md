@@ -3,9 +3,6 @@ Building robust software with others is my jam.
 Professionally I work in open-source robotics, and before that, I wrote signal processing code.
 In 1999 I started programming with the book "C in 21 Days".
 Having written C++ for as long as I can remember, I've fallen in love with the Rust programming language.
-I am currently contributing to [Clippy](https://doc.rust-lang.org/clippy/), the Rust linter.
-My motivation is to develop muscle memory in Rust and to make friends in the Rust community.
-Below are links to my PRs for Clippy and my robotics work for [PickNik Robotics](https://picknik.ai/).
 
 ### 🦀 Rust
 - 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
