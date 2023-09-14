@@ -4,17 +4,6 @@ Professionally I work in open-source robotics, and before that, I wrote signal p
 In 1999, I started programming with the book "C in 21 Days".
 Having written C++ for as long as I can remember, I've fallen in love with the Rust programming language.
 
-### 📢 Talks
- - [Retro ROS 2 Launch](https://github.com/tylerjw/easy_ros2_launch_talk/tree/main)
-
-### 🦀 Rust
-- 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
-- 📎 clippy: [`needless_lifetimes`: lint local macros](https://github.com/rust-lang/rust-clippy/pull/10257)
-- 📎 clippy: [`needless_range_loop`: improve documentation](https://github.com/rust-lang/rust-clippy/pull/10254)
-- 📎 clippy: [`wildcard_enum_match_arm`: take the enum origin into account](https://github.com/rust-lang/rust-clippy/pull/10250)
-- 📎 clippy: [Document lint configuration values in Clippy's book](https://github.com/rust-lang/rust-clippy/pull/10199)
-- 📎 clippy: [`case_sensitive_file_extension_comparisons`: Suggest using Path](https://github.com/rust-lang/rust-clippy/pull/10107)
-
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
   - \>100 commits landed [into the main repo](https://github.com/ros-planning/moveit2/commits?author=tylerjw)
@@ -25,6 +14,17 @@ Having written C++ for as long as I can remember, I've fallen in love with the R
 - 🧰 Tooling Libraries for ROS
   - [Declarative Parameters](https://github.com/PickNikRobotics/generate_parameter_library)
   - [ROS Support Library (ala GSL for ROS)](https://github.com/PickNikRobotics/RSL)
+ 
+### 📢 Talks
+ - [Retro ROS 2 Launch](https://github.com/tylerjw/easy_ros2_launch_talk/tree/main)
+
+### 🦀 Rust
+- 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
+- 📎 clippy: [`needless_lifetimes`: lint local macros](https://github.com/rust-lang/rust-clippy/pull/10257)
+- 📎 clippy: [`needless_range_loop`: improve documentation](https://github.com/rust-lang/rust-clippy/pull/10254)
+- 📎 clippy: [`wildcard_enum_match_arm`: take the enum origin into account](https://github.com/rust-lang/rust-clippy/pull/10250)
+- 📎 clippy: [Document lint configuration values in Clippy's book](https://github.com/rust-lang/rust-clippy/pull/10199)
+- 📎 clippy: [`case_sensitive_file_extension_comparisons`: Suggest using Path](https://github.com/rust-lang/rust-clippy/pull/10107)
 
 ### :technologist: Contact Me
 I am looking for mentoring for giving talks at programming language meetups and conferences.
