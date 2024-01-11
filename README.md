@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Tyler Weaver (he/him)
 Building robust software with others is my jam.
-Professionally I work in open-source robotics, and before that, I wrote signal processing code.
+Professionally, I work in open-source robotics, and before that, I wrote signal processing code.
 In 1999, I started programming with the book "C in 21 Days".
 Having written C++ for as long as I can remember, I've fallen in love with the Rust programming language.
 
@@ -16,8 +16,8 @@ Having written C++ for as long as I can remember, I've fallen in love with the R
   - [ROS Support Library (ala GSL for ROS)](https://github.com/PickNikRobotics/RSL)
  
 ### 📢 Talks
- - [Parameters Should be Boring - ROSCON 23](https://tylerjw.dev/posts/roscon23-parameters/)
- - [Retro ROS 2 Launch - ROSCON 23](https://tylerjw.dev/posts/xml-launch/)
+ - [ROSCON23 - Parameters Should be Boring](https://tylerjw.dev/posts/roscon23-parameters/)
+ - [ROSCON23 - Retro ROS 2 Launch](https://tylerjw.dev/posts/xml-launch/)
 
 ### 🦀 Rust
 - 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
