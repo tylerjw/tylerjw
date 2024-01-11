@@ -16,7 +16,8 @@ Having written C++ for as long as I can remember, I've fallen in love with the R
   - [ROS Support Library (ala GSL for ROS)](https://github.com/PickNikRobotics/RSL)
  
 ### 📢 Talks
- - [Retro ROS 2 Launch](https://github.com/tylerjw/easy_ros2_launch_talk/tree/main)
+ - [Parameters Should be Boring - ROSCON 23](https://tylerjw.dev/posts/roscon23-parameters/)
+ - [Retro ROS 2 Launch - ROSCON 23](https://tylerjw.dev/posts/xml-launch/)
 
 ### 🦀 Rust
 - 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
