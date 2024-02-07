@@ -18,6 +18,7 @@ Having written C++ for as long as I can remember, I've fallen in love with the R
 ### 📢 Talks
  - [ROSCON23 - Parameters Should be Boring](https://tylerjw.dev/posts/roscon23-parameters/)
  - [ROSCON23 - Retro ROS 2 Launch](https://tylerjw.dev/posts/xml-launch/)
+ - [Boulder Rust Meetup - C++ Interop](https://tylerjw.dev/posts/rust-cpp-interop/)
 
 ### 🦀 Rust
 - 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
