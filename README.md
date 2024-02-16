@@ -21,12 +21,8 @@ Having written C++ for as long as I can remember, I've fallen in love with the R
  - [Boulder Rust Meetup - C++ Interop](https://tylerjw.dev/posts/rust-cpp-interop/)
 
 ### 🦀 Rust
-- 📦 crate: [conan-export-recipes: crawl directory of conan recipes and export](https://crates.io/crates/conan-export-recipes)
-- 📎 clippy: [`needless_lifetimes`: lint local macros](https://github.com/rust-lang/rust-clippy/pull/10257)
-- 📎 clippy: [`needless_range_loop`: improve documentation](https://github.com/rust-lang/rust-clippy/pull/10254)
-- 📎 clippy: [`wildcard_enum_match_arm`: take the enum origin into account](https://github.com/rust-lang/rust-clippy/pull/10250)
-- 📎 clippy: [Document lint configuration values in Clippy's book](https://github.com/rust-lang/rust-clippy/pull/10199)
-- 📎 clippy: [`case_sensitive_file_extension_comparisons`: Suggest using Path](https://github.com/rust-lang/rust-clippy/pull/10107)
+- [C++ Interop Part 1 - Just The Basics](https://tylerjw.dev/posts/rust-cpp-interop/)
+- [C++ Interop Part 2 - CMake](https://tylerjw.dev/posts/rust-cmake-interop-cmake/)
 
 ### :technologist: Contact Me
 I am looking for mentoring for giving talks at programming language meetups and conferences.
