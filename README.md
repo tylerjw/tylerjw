@@ -23,6 +23,7 @@ Having written C++ for as long as I can remember, I've fallen in love with the R
 ### 🦀 Rust
 - [C++ Interop Part 1 - Just The Basics](https://tylerjw.dev/posts/rust-cpp-interop/)
 - [C++ Interop Part 2 - CMake](https://tylerjw.dev/posts/rust-cmake-interop-cmake/)
+- [C++ Interop Part 3 - Cxx](https://tylerjw.dev/posts/rust-cmake-interop-part-3-cxx/)
 
 ### :technologist: Contact Me
 I am looking for mentoring for giving talks at programming language meetups and conferences.
