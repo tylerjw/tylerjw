@@ -1,8 +1,12 @@
 ## Hi 👋, I'm Tyler Weaver (he/him)
-Building robust software with others is my jam.
-Professionally, I work in open-source robotics, and before that, I wrote signal processing code.
-In 1999, I started programming with the book "C in 21 Days".
-Having written C++ for as long as I can remember, I've fallen in love with the Rust programming language.
+Rust is the future, C++ is here to stay, and the two should be friends.
+
+Recently, I became a free agent and am focusing on these two things:
+- Rust/C++ Interop
+- Tooling for packaging (specifically CPS and Pixi)
+
+Professionally, I have worked in open-source robotics and signal processing.
+I am available for consulting. Please feel free to reach out for details.
 
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
