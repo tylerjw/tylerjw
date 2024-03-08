@@ -6,7 +6,6 @@ Recently, I became a free agent and am focusing on these two things:
 - Tooling for packaging (specifically CPS and Pixi)
 
 Professionally, I have worked in open-source robotics and signal processing.
-I am available for consulting. Please feel free to reach out for details.
 
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
