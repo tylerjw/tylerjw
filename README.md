@@ -9,7 +9,7 @@ Professionally, I have worked in open-source robotics and signal processing.
 
 ### C++ Packaging
 - [cps-config](https://github.com/cps-org/cps-config) Drop in replacement for pkg-config based on .cps files
-- [cps-build](https://github.com/tylerjw/cps-deps) Generate .cps files from .pc files
+- [cps-deps](https://github.com/tylerjw/cps-deps) Generate .cps files from .pc files
 - [ubuntu-jammy-cps](https://github.com/tylerjw/ubuntu-jammy-cps) CPS files for Ubuntu Jammy (22.04)
 
 ### 🦀 C++/Rust Interop
