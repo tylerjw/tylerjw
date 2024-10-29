@@ -1,11 +1,12 @@
 ## Hi 👋, I'm Tyler Weaver (he/him)
-Rust is the future, C++ is here to stay, and the two should be friends.
-
-Recently, I became a free agent and am focusing on these two things:
-- C++ packaging
-- Rust/C++ Interop
-
-Professionally, I have worked in open-source robotics and signal processing.
+My superpower is reading documentation and the code I depend on.
+This has enabled me to develop high-performance software in three domains: web servers, open-source robotics, and wireless signal processing.
+ 
+### 📢 Talks
+ - [CppCon 24 - C++/Rust Interop](https://tylerjw.dev/posts/20240920-cppcon-cpp-rust-interop/)
+ - [ROSCON23 - Parameters Should be Boring](https://tylerjw.dev/posts/roscon23-parameters/)
+ - [ROSCON23 - Retro ROS 2 Launch](https://tylerjw.dev/posts/xml-launch/)
+ - [Boulder Rust Meetup - C++ Interop](https://tylerjw.dev/posts/rust-cpp-interop/)
 
 ### C++ Packaging
 - [cps-config](https://github.com/cps-org/cps-config) Drop in replacement for pkg-config based on .cps files
@@ -17,12 +18,7 @@ Professionally, I have worked in open-source robotics and signal processing.
 - [C++ Interop Part 2 - CMake](https://tylerjw.dev/posts/rust-cmake-interop-cmake/)
 - [C++ Interop Part 3 - Cxx](https://tylerjw.dev/posts/rust-cmake-interop-part-3-cxx/)
 - [C++ Interop Part 4 - Binding to a C++/CMake/Conan Project](https://tylerjw.dev/posts/rust-cpp-part4-buildrs/)
- 
-### 📢 Talks
- - [ROSCON23 - Parameters Should be Boring](https://tylerjw.dev/posts/roscon23-parameters/)
- - [ROSCON23 - Retro ROS 2 Launch](https://tylerjw.dev/posts/xml-launch/)
- - [Boulder Rust Meetup - C++ Interop](https://tylerjw.dev/posts/rust-cpp-interop/)
-
+  
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
   - \>100 commits landed [into the main repo](https://github.com/ros-planning/moveit2/commits?author=tylerjw)
