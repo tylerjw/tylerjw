@@ -8,7 +8,7 @@ This has enabled me to develop high-performance software in three domains: web s
  - [ROSCON23 - Retro ROS 2 Launch](https://tylerjw.dev/posts/xml-launch/)
  - [Boulder Rust Meetup - C++ Interop](https://tylerjw.dev/posts/rust-cpp-interop/)
 
-### C++ Packaging
+### 📦 C++ Packaging
 - [cps-config](https://github.com/cps-org/cps-config) Drop in replacement for pkg-config based on .cps files
 - [cps-deps](https://github.com/tylerjw/cps-deps) Generate .cps files from .pc files
 - [ubuntu-jammy-cps](https://github.com/tylerjw/ubuntu-jammy-cps) CPS files for Ubuntu Jammy (22.04)
