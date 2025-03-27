@@ -28,7 +28,7 @@ This has enabled me to develop high-performance software in three domains: web s
   - Migrated Infrastructure to [GitHub Actions](http://picknik.ai/ros/moveit/devops/2021/12/14/DevOps-for-ROS-Projects-Part-2.html)
 - 🧰 Tooling Libraries for ROS
   - [Declarative Parameters](https://github.com/PickNikRobotics/generate_parameter_library)
-  - [ROS Support Library (ala GSL for ROS)](https://github.com/PickNikRobotics/RSL)
+  - [ROS Support Library (ala GSL for ROS)](https://github.com/ChrisThrasher/RSL)
 
 ### :technologist: Contact Me
 I am looking for mentoring for giving talks at programming language meetups and conferences.
