@@ -17,7 +17,8 @@ This has enabled me to develop high-performance software in three domains: web s
 - [C++ Interop Part 1 - Just The Basics](https://tylerjw.dev/posts/rust-cpp-interop/)
 - [C++ Interop Part 2 - CMake](https://tylerjw.dev/posts/rust-cmake-interop-cmake/)
 - [C++ Interop Part 3 - Cxx](https://tylerjw.dev/posts/rust-cmake-interop-part-3-cxx/)
-- [C++ Interop Part 4 - Binding to a C++/CMake/Conan Project](https://tylerjw.dev/posts/rust-cpp-part4-buildrs/)
+- [C++ Interop Part 4 - Binding to a C++/CMake/Conan Project](https://tylerjw.dev/posts/rust-cpp-part4-buildrs/)/)
+- [C++ Interop Part 5 - Interop in 2025](https://tylerjw.dev/posts/20251003-rust-cpp-interop-2025-update/)
   
 ### 🤖 Robotics
 - 🦾 Contributor and Maintainer for [MoveIt 2](https://moveit.ros.org)
