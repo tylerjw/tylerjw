@@ -36,4 +36,4 @@ I am looking for mentoring for giving talks at programming language meetups and 
 
 - :email: <maybe@tylerjw.dev>
 - :key: `curl https://keybase.io/squirrel428/pgp_keys.asc | gpg --import`
-- :page_with_curl: [Resume](https://github.com/tylerjw/cv/blob/build/cv.pdf)
+- :page_with_curl: [Resume](https://github.com/tylerjw/resume/blob/build/cv.pdf)
